@@ -1,6 +1,6 @@
 ## Hi there, I'm Lamfao 👋
 
-Hacker. Artist. I produce music under my other alias: UserRetr0. \
+Pentester. Artist. I produce music under my other alias: UserRetr0. \
 Currently studying for the HackTheBox CPTS certification.
 
 🎧 Music :
