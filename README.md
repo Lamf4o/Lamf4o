@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Lamfao 👋
 
-<!--
-**Lamf4o/Lamf4o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ethical Hacker. Artist. I produce music under my other alias: UserRetr0. \
+Currently studying for the HackTheBox CPTS certification.
 
-Here are some ideas to get you started:
+📧 Music :
+- YouTube : [userretr0](https://www.youtube.com/@userretr0)
+- SoundCloud : [userretr0](https://soundcloud.com/userretr0)
+- Apple Music : UserRetr0
+- Spotify : UserRetr0
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me :
+- X : [lamf4o](https://x.com/lamf4o)
+- Discord : lamf4o
