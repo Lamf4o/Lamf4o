@@ -1,9 +1,9 @@
 ## Hi there, I'm Lamfao 👋
 
-Ethical Hacker. Artist. I produce music under my other alias: UserRetr0. \
+Hacker. Artist. I produce music under my other alias: UserRetr0. \
 Currently studying for the HackTheBox CPTS certification.
 
-📧 Music :
+🎧 Music :
 - YouTube : [userretr0](https://www.youtube.com/@userretr0)
 - SoundCloud : [userretr0](https://soundcloud.com/userretr0)
 - Apple Music : UserRetr0
