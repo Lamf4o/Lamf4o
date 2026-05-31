@@ -3,7 +3,7 @@
 Penetration Tester. Artist. I produce music under my other alias: UserRetr0. \
 Currently studying for the HackTheBox CPTS certification.
 
-- HackTheBox : [lamfao](https://app.hackthebox.com/profile/1211429)
+- HackTheBox : [lamfao](https://app.hackthebox.com/users/1211429)
 
 🎧 Music :
 - YouTube : [userretr0](https://www.youtube.com/@userretr0)
